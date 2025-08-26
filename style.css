@@ -115,17 +115,17 @@ animation-name: tbOpacity;
 }
 #videoEA{
 
-    transform: translateX(-50px) scale(0.8);
+    transform: translateX(50px) ;
 }
 
 #imagenEn{
     position: absolute;
-    transform:translate(500px,-1050px) scale(0.5);
+    transform:translate(500px,-1000px) scale(0.5);
 
 }
 #imagenPa{
     position: absolute;
-    transform:translate(-100px,100px) scale(0.8);
+    transform:scale(0.8);
 
 }
 #aristImg1{
