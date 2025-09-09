@@ -70,6 +70,14 @@ h2{
     background-color: rgb(80, 143, 95);
     transform: translate(200px,100px) rotate(3deg) scale(0.95,0.95);
 }
+#botonTrabajo{
+    background-color: rgb(44, 44, 39);
+
+}
+#botonTrabajo:hover{
+    background-color: rgb(87, 87, 70);
+    transform: translate(200px,100px) rotate(3deg) scale(0.95,0.95);
+}
 #parrafo_OFCS{
     font-size: 30px;
     color: white;
@@ -116,6 +124,7 @@ animation-name: tbOpacity;
 #videoEA{
 
     transform: translateX(50px) ;
+    width: 800px;
 }
 
 #imagenEn{
